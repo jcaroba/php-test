@@ -1,3 +1,3 @@
 <?php
-echo "Version: 7";
+echo "Version: 8";
 ?>
